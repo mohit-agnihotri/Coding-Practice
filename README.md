@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
+| [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
