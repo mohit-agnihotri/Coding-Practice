@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
