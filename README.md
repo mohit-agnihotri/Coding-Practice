@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
