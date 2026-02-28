@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
