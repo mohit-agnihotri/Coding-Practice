@@ -1,15 +1,14 @@
 class Solution {
     public int bitwiseComplement(int n) {
-        String binary = Integer.toBinaryString(n);
-        String flipped = "";
-        for(int i = 0 ; i < binary.length() ; i++){
-            if(binary.charAt(i) == '0'){
-                flipped += '1';
-            }
-            else{
-                 flipped += '0';
-            }
+
+        if (n == 0) return 1;
+
+        int mask = 1;
+
+        while (mask <= n) {
+            mask = mask << 1;
         }
-        return Integer.parseInt(flipped , 2);
+
+        return (mask - 1) ^ n;
     }
 }
