@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -34,6 +35,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+| [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
