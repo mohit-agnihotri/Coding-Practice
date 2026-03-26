@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -25,6 +26,7 @@
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +97,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
