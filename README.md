@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -27,6 +28,7 @@
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 ## Counting
 |  |
