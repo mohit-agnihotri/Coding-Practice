@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -55,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
 ## String
