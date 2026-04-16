@@ -19,6 +19,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
 ## String
 |  |
@@ -141,4 +144,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
