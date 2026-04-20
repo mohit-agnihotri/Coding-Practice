@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -35,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
