@@ -80,6 +80,7 @@
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1903-largest-odd-number-in-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
