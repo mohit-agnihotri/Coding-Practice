@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
