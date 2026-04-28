@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
@@ -77,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
