@@ -24,6 +24,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1051-height-checker](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1051-height-checker) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
