@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
