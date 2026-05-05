@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
