@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
+| [0925-long-pressed-name](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0925-long-pressed-name) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -108,6 +109,7 @@
 | [0075-sort-colors](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0925-long-pressed-name](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
