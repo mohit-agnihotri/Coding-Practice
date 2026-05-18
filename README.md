@@ -173,10 +173,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -190,4 +192,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
