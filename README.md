@@ -86,6 +86,7 @@
 | [0014-longest-common-prefix](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
@@ -111,6 +112,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
