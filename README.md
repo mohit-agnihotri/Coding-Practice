@@ -134,6 +134,7 @@
 | [0007-reverse-integer](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0043-multiply-strings) |
+| [0231-power-of-two](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Heap (Priority Queue)
@@ -199,4 +201,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
