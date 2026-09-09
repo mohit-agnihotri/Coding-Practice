@@ -205,4 +205,20 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
