@@ -211,12 +211,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -224,6 +226,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -231,5 +234,6 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
