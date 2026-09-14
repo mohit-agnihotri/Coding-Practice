@@ -183,6 +183,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -271,4 +272,5 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0707-design-linked-list](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
