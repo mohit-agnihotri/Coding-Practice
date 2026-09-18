@@ -92,6 +92,7 @@
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0925-long-pressed-name) |
 | [1668-maximum-repeating-substring](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/1668-maximum-repeating-substring) |
@@ -118,6 +119,7 @@
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0541-reverse-string-ii) |
 | [0925-long-pressed-name](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
