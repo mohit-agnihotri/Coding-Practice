@@ -90,6 +90,7 @@
 | [0205-isomorphic-strings](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0541-reverse-string-ii) |
@@ -118,6 +119,7 @@
 | [0125-valid-palindrome](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/mohit-agnihotri/Coding-Practice/tree/master/0541-reverse-string-ii) |
